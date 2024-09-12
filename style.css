@@ -1,0 +1,16 @@
+  body {
+  box-sizing: border-box;
+  font-family: viga;
+}
+
+.hiro {
+  padding-top: 5rem;
+  background-image: url('https://images.unsplash.com/photo-1498079022511-d15614cb1c02?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTEwfHxzdHVkZW50fGVufDB8fDB8fHww');
+  background-size: cover;
+  height: 100vh;
+  color: #fff;
+}
+
+.col-custom {
+  background: url('https://images.unsplash.com/photo-1721069210007-d4aedc8d02c6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxMDZ8fHxlbnwwfHx8fHw%3D');
+}
